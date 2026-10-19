@@ -1,0 +1,61 @@
+# ═══════════════════════════════════════════════════════════
+#  Stealth X — Git Ignore
+# ═══════════════════════════════════════════════════════════
+
+# APK / Build outputs
+*.apk
+*.aab
+*.apks
+*.xapk
+*.obb
+/build/
+/release/
+/out/
+
+# Android build
+.gradle/
+/local.properties
+*.iml
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore / signing (NEVER commit)
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# OS files
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Editor
+.vscode/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Node (if any tooling)
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Temp
+tmp/
+temp/
+*.tmp
