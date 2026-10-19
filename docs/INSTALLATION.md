@@ -79,4 +79,60 @@ Before uninstalling the original game:
 
 ### ❌ "App not installed"
 - **Cause:** Original game is still installed
+- **Fix:** Uninstall the original game completely, then retry
+
+### ❌ "Parse error"
+- **Cause:** Corrupted APK download
+- **Fix:** Re-download the APK from Releases
+
+### ❌ App crashes on launch
+- **Cause:** Cache conflict or low storage
 - **Fix:**
+  1. Clear app cache: Settings → Apps → Stealth X → Storage → Clear Cache
+  2. Free up at least 1 GB of storage
+  3. Restart device
+
+### ❌ "No money showing"
+- **Cause:** Mod needs one full cycle to apply
+- **Fix:** Buy any cheap car → close app → reopen
+
+### ❌ "Install blocked"
+- **Cause:** Play Protect or antivirus
+- **Fix:** Temporarily disable Play Protect in Play Store → Settings
+
+### ❌ Multiplayer not working
+- **Cause:** Server-side detection or version mismatch
+- **Fix:** Use offline mode only for safest experience
+
+---
+
+## 🔄 Updating
+
+When a new version is released:
+
+1. **Do not uninstall** the current version
+2. Download the new APK from [Releases](https://github.com/saintcpmshop-source/stealth-x-mod/releases)
+3. Install it over the top (**don't** uninstall first, or you'll lose data)
+4. If signature mismatch occurs, uninstall & reinstall (data will be lost)
+
+---
+
+## 🗑️ Uninstallation
+
+1. Long-press Stealth X → **Uninstall**
+2. If you want to return to the official game:
+   - Install Car Parking Multiplayer from Google Play
+   - Log in with your original account
+
+---
+
+## ⚠️ Safety Notes
+
+- **Play offline** for maximum safety
+- Use a **throwaway account** for online play
+- We are **not responsible** for bans
+- **Never** use this on your main account with real purchases
+
+---
+
+> 📖 Back to main → [**README.md**](../README.md)
