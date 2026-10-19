@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation
+    url: https://github.com/saintcpmshop-source/stealth-x-mod/tree/main/docs
+    about: Check the docs before opening an issue
+  - name: ❓ FAQ
+    url: https://github.com/saintcpmshop-source/stealth-x-mod/blob/main/docs/FAQ.md
+    about: Common questions answered
+  - name: 🔒 Security Issue
+    url: https://github.com/saintcpmshop-source/stealth-x-mod/security/policy
+    about: Report security issues privately
+  - name: 💬 GitHub Discussions
+    url: https://github.com/saintcpmshop-source/stealth-x-mod/discussions
+    about: Ask questions and discuss with the community
